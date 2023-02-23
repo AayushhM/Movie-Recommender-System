@@ -1,5 +1,5 @@
 
-# [Sentiment Analysis and Movie Recommendation System](https://movie-recommender-system-production-2b6d.up.railway.app/)
+# [Sentiment Analysis and Movie Recommendation System](https://movie-recommender-system-production-e162.up.railway.app/)
 
 
 This repository contains two separate but related projects: Sentiment Analysis and Movie Recommendation System. Both projects are implemented in Python and utilize several NLP and machine learning libraries.
