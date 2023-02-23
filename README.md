@@ -29,7 +29,8 @@ The user interface of the application is created using HTML, CSS, and JavaScript
 
 ## Deployment
 
-The app has been deployed on Railway: https://movie-recommender-system-production-2b6d.up.railway.app/
+The app has been deployed on Railway: https://movie-recommender-system-production-e162.up.railway.app/
+
 
 ## Screenshots
 
